@@ -1,0 +1,24 @@
+{
+  "name": "discordtest",
+  "version": "1.0.0",
+  "description": "Ref: https://anidiots.guide/getting-started/the-long-version.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emman31/discord-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emman31/discord-test/issues"
+  },
+  "homepage": "https://github.com/emman31/discord-test#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "google-spreadsheet": "^2.0.4"
+  }
+}
